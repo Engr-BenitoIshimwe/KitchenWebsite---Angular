@@ -1,3 +1,3 @@
-# Shop Application | Angular Framework
+# Shop Application | Angular
 
 🌎 Website: https://benitoinhiskitchen.netlify.app
